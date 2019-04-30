@@ -1,0 +1,28 @@
+p {
+ color: red;
+}
+.radio{
+    text-align: left
+}
+#cadastro{
+    background-color: lightcyan;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.caixa{
+    text-align: center;
+    background-color: greenyellow;
+    width: 20px;
+    align-content: center;
+    position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-110px;
+	margin-top:-40px;    
+    width:180px;
+    height:200px;
+    border:solid 5px darkblue;
+    border:0px 20px 0px 20px;
+}
+
